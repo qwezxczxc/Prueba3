@@ -1,0 +1,17 @@
+.bg-light-blue {
+    background-color: #c4ebf7;
+  }
+  
+  h2 {
+    text-decoration-color: #FFFFFF;
+}
+button[type="submit"] {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button[type="submit"]:hover {
+  background-color: #007bff;
+  color: #ffffff; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
